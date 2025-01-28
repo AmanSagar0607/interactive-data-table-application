@@ -1,1 +1,1 @@
-# interactive-data-table-application
+# Interactive-data-table-application
